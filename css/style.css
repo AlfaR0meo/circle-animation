@@ -192,7 +192,6 @@ body {
 /* ■■■■■ СТИЛИ САЙТА ■■■■■■■■■■■■■■■■■ */
 .section--hero {
   height: 100vh;
-  height: 100dvh;
   position: relative;
   padding-inline: 1rem;
   display: flex;
